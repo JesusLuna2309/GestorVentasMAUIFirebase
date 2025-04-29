@@ -1,0 +1,24 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrisoftApp.Pages.Usuario.AgregarAgenda"
+             Title="AgregarAgenda">
+    <VerticalStackLayout Margin="30,10,30,0">
+
+        <Label Text="Cliente" />
+        <Picker x:Name="clientePicker" />
+
+        <Label Text="Fecha" />
+        <DatePicker x:Name="fechaPicker" />
+
+        <Label Text="Hora" />
+        <TimePicker x:Name="horaPicker" />
+
+        <Label Text="Notas" />
+        <Entry x:Name="notasEntry" />
+
+        <Button Text="Guardar" 
+                Clicked="Guardar_Clicked"
+                BackgroundColor="#1C375C"
+                CornerRadius="20"/>
+    </VerticalStackLayout>
+</ContentPage>

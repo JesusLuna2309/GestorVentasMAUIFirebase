@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrisoftApp.Pages.Usuario.ListadoPedidosUsuarios"
+             Title="ListadoPedidos">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+         <!--Encabezado-->
+        <StackLayout Orientation="Horizontal" Grid.Row="0">
+            <!--<Label Text="Resumen del pedido" FontSize="Title" TextColor="{StaticResource PrimaryColor}" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" Margin="85,14,0,0"/>-->
+            <!--<Image Source="logo.png" HorizontalOptions="Start" Margin="-300,0,0,0"/> Error de Unhadledexception para guardar en documento de errores por errores de imagenes-->
+        </StackLayout>
+
+         <!--Datos Lista--> 
+        <Label Text="                       PRODUCTO                          PRECIO     DTO       PVP      CANTIDAD     TOTAL" FontSize="30" Grid.Row="1" VerticalOptions="Start" TextColor="Black" Margin="0,20,0,0" IsVisible="{OnPlatform Android=true, iOS=false, WinUI=false}"/>
+        <Label Text="                         PRODUCTO                                PRECIO      DTO        PVP         CANTIDAD    TOTAL" FontSize="30" Grid.Row="1" VerticalOptions="Start" TextColor="Black" Margin="0,20,0,0" IsVisible="{OnPlatform Android=false, iOS=false, WinUI=true}"/>
+
+         <!--Lista de artículos--> 
+        <ScrollView Grid.Row="2">
+            <ListView x:Name="listaResumen" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+
+                             <!--Creación del Grid--> 
+                            <Grid Padding="20">
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+
+                                 <!--Mostrar Imagen--> 
+                                <Image Source="{Binding Articulo.urlImagen1}" Grid.Row="0" Grid.Column="0" HeightRequest="90" Margin="0,0,0,0" VerticalOptions="End"  HorizontalOptions="Start" />
+
+                                 <!--Mostrar Referencia--> 
+                                <Label Text="{Binding Articulo.referencia}" Grid.Row="0" Grid.Column="1" FontSize="Medium" Margin="0,0,0,0" HorizontalOptions="Start" VerticalOptions="Start" />
+
+                                 <!--Mostrar Descripción--> 
+                                <Label Text="{Binding Articulo.descripcion}" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,0,0" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="End" TextColor="DarkSlateGray"  />
+
+                                 <!--Mostrar Venta--> 
+                                <Label Text="{Binding Articulo.venta}" Grid.Row="0" Grid.Column="3" FontSize="Medium" VerticalOptions="Center" HorizontalOptions="Center"  Margin="-10,0,0,0"/>
+                                <Label Text="€" Grid.Row="0" Grid.Column="3" FontSize="Medium" VerticalOptions="Center" HorizontalOptions="Center"  Margin="50,0,0,0"/>
+
+                                 <!--Mostrar Descuento--> 
+                                <Label Text="{Binding Articulo.coste}" Grid.Row="0" Grid.Column="4" FontSize="Medium" VerticalOptions="Center" HorizontalOptions="Center" Margin="-90,0,0,0" />
+                                <Label Text="%" Grid.Row="0" Grid.Column="4" FontSize="Medium" VerticalOptions="Center" HorizontalOptions="Start"  Margin="50,0,0,0"/>
+
+                                 <!--Mostrar VentaOferta--> 
+                                <Label Text="{Binding Articulo.ventaOferta}" Grid.Row="0" Grid.Column="5" FontSize="Medium" VerticalOptions="Center" HorizontalOptions="Start" Margin="-25,0,0,0" />
+                                <Label Text="€" Grid.Row="0" Grid.Column="5" FontSize="Medium" VerticalOptions="Center" HorizontalOptions="Start"  Margin="20,0,0,0"/>
+
+                                 <!--Botón para restar una unidad--> 
+                                <Button Text="-" Grid.Row="0" Grid.Column="6" Clicked="RestarCantidadClicked" Margin="-85,-5,30,0" BackgroundColor="Transparent" TextColor="Black" FontSize="50" HorizontalOptions="Start" VerticalOptions="Start" />
+
+                                 <!--Mostrar Unidades--> 
+                                <Label Text="{Binding LineaPedido.unidades}" Grid.Row="0" Margin="-30,0,0,0" Grid.Column="6" FontSize="Medium" VerticalOptions="Center"  />
+
+                                 <!--Botón para sumar una unidad--> 
+                                <Button Text="+" Grid.Row="0" Grid.Column="6" Clicked="SumarCantidadClicked" Margin="-148,0,0,0" BackgroundColor="Transparent" TextColor="Black" FontSize="30" WidthRequest="40" />
+
+                                 <!--Mostrar Total de cada unidad--> 
+                                <Label Grid.Row="0" Grid.Column="7" FontSize="Medium" VerticalOptions="Center" HorizontalOptions="Start" Margin="-65,0,0,0">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="{Binding LineaPedido.total}" FontSize="Medium" />
+                                            <Span Text=" €" FontSize="Medium" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+
+                                 <!--Botón para eliminar el producto del pedido--> 
+                                <Button ImageSource="papelera.png" Grid.Row="0" Grid.Column="8" FontSize="Medium" Margin="10,0,0,0" BackgroundColor="Transparent" VerticalOptions="Center" x:Name="btn_trash" Clicked="Clicked_btntrash"/>
+
+                            </Grid>
+
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollView>
+
+         <!--Creación del Grid del final--> 
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+             <!--Botón para finalizar la compra-->
+            <Button ImageSource="shopcart.png"
+                    Text="Finalizar"
+                    WidthRequest="180"
+                    Clicked="Clicked_btnfin"
+                    Grid.Column="1"
+                    HorizontalOptions="End"
+                    Margin="0,0,20,0"
+                    CornerRadius="20"
+                    BackgroundColor="{StaticResource Azul}"/>
+
+            <!--Mostrar Total--> 
+            <Label Grid.Column="0" VerticalOptions="End" HorizontalOptions="Start" Margin="10" TextColor="Black" FontSize="Title">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Total: " FontSize="Title" TextColor="Black" />
+                        <Span x:Name="Totalentry" FontSize="Title" TextColor="Black" />
+                        <Span Text=" €" FontSize="Title" TextColor="Black" />
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+
+        </Grid>
+
+    </Grid>
+</ContentPage>

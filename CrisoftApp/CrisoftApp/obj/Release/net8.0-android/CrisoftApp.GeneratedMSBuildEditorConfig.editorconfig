@@ -1,0 +1,203 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CrisoftApp
+build_property.ProjectDir = C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/Agenda.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.Agenda.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\Agenda.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\Agenda.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/AñadirClientes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.AñadirClientes.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\AñadirClientes.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\AñadirClientes.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/CatalogoAdmin.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.CatalogoAdmin.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\CatalogoAdmin.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\CatalogoAdmin.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/DetallesDelPedidoAdmin.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.DetallesDelPedidoAdmin.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\DetallesDelPedidoAdmin.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\DetallesDelPedidoAdmin.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/ListadoClientes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.ListadoClientes.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\ListadoClientes.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\ListadoClientes.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/ListadoPedidos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.ListadoPedidos.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\ListadoPedidos.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\ListadoPedidos.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/ListadoPedidosAdmin.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.ListadoPedidosAdmin.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\ListadoPedidosAdmin.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\ListadoPedidosAdmin.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/ListadoPedidosAdminUsuarios.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.ListadoPedidosAdminUsuarios.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\ListadoPedidosAdminUsuarios.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\ListadoPedidosAdminUsuarios.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/ListadoPersonal.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.ListadoPersonal.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\ListadoPersonal.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\ListadoPersonal.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/ModificarCliente.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.ModificarCliente.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\ModificarCliente.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\ModificarCliente.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Admin/ModificarUsuario.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Admin.ModificarUsuario.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Admin\ModificarUsuario.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Admin\ModificarUsuario.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Botones/BotonesCPA.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Botones.BotonesCPA.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Botones\BotonesCPA.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Botones\BotonesCPA.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/RyL/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.RyL.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RyL\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RyL\Login.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/RyL/Registro.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.RyL.Registro.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RyL\Registro.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RyL\Registro.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Secundarios/AñadirClientes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Secundarios.AñadirClientes.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Secundarios\AñadirClientes.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Secundarios\AñadirClientes.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Secundarios/Catalogo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Secundarios.Catalogo.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Secundarios\Catalogo.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Secundarios\Catalogo.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Secundarios/DetallesDelPedido.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Secundarios.DetallesDelPedido.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Secundarios\DetallesDelPedido.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Secundarios\DetallesDelPedido.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Secundarios/ListadoClientes.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Secundarios.ListadoClientes.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Secundarios\ListadoClientes.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Secundarios\ListadoClientes.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Secundarios/ListadoPedidos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Secundarios.ListadoPedidos.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Secundarios\ListadoPedidos.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Secundarios\ListadoPedidos.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Secundarios/ModificarCliente.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Secundarios.ModificarCliente.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Secundarios\ModificarCliente.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Secundarios\ModificarCliente.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Secundarios/Pedidos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Secundarios.Pedidos.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Secundarios\Pedidos.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Secundarios\Pedidos.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Usuario/AgregarAgenda.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Usuario.AgregarAgenda.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Usuario\AgregarAgenda.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Usuario\AgregarAgenda.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Usuario/BotonesCPAUsuario.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Usuario.BotonesCPAUsuario.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Usuario\BotonesCPAUsuario.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Usuario\BotonesCPAUsuario.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Usuario/CatalogoUsuarios.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Usuario.CatalogoUsuarios.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Usuario\CatalogoUsuarios.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Usuario\CatalogoUsuarios.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Usuario/ListadoPedidosUsuarios.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Usuario.ListadoPedidosUsuarios.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Usuario\ListadoPedidosUsuarios.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Usuario\ListadoPedidosUsuarios.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Pages/Usuario/PedidosUsuario.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Pages.Usuario.PedidosUsuario.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Usuario\PedidosUsuario.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Usuario\PedidosUsuario.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/luro2/OneDrive/Escritorio/PresentacionLunes/CrisoftApp/CrisoftApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrisoftApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

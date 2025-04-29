@@ -1,0 +1,49 @@
+{
+  "categorias": [
+    {
+      "idCategoria": "SC",
+      "descripcion": "Collares y cadenas de plata",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/sc.jpg"
+    },
+    {
+      "idCategoria": "RS",
+      "descripcion": "Relojes de señora",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/rs.jpg"
+    },
+    {
+      "idCategoria": "RV",
+      "descripcion": "Relojes de caballero",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/rv.jpg"
+    },
+    {
+      "idCategoria": "EM",
+      "descripcion": "Marroquinería",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/em.jpg"
+    },
+    {
+      "idCategoria": "SA",
+      "descripcion": "Pendientes de plata",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/sa.jpg"
+    },
+    {
+      "idCategoria": "SS",
+      "descripcion": "Sortijas de plata",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/ss.jpg"
+    },
+    {
+      "idCategoria": 91,
+      "descripcion": "Correas de reloj",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/91.jpg"
+    },
+    {
+      "idCategoria": "XC",
+      "descripcion": "Collares de acero",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/xc.jpg"
+    },
+    {
+      "idCategoria": "XP",
+      "descripcion": "Pulseras de acero",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/c\/xp.jpg"
+    }
+  ]
+}

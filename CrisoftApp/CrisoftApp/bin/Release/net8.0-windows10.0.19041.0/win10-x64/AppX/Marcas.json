@@ -1,0 +1,114 @@
+{
+  "marca": [
+    {
+      "idMarca": "BC0",
+      "descripcion": "Correas Ibérica",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/bc0.jpg"
+    },
+    {
+      "idMarca": "DPT",
+      "descripcion": "Dupont",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/dpt.jpg"
+    },
+    {
+      "idMarca": "DU0",
+      "descripcion": "Durán Exquse",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/du0.jpg"
+    },
+    {
+      "idMarca": "IWB",
+      "descripcion": "Ice Watch  BMW Motorsport",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/iwb.jpg"
+    },
+    {
+      "idMarca": "IWR",
+      "descripcion": "Ice Watch Digit retro",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/iwr.jpg"
+    },
+    {
+      "idMarca": "LM0",
+      "descripcion": "Correas Luminox",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/lm0.jpg"
+    },
+    {
+      "idMarca": "LMS",
+      "descripcion": "Luminox -Swiss Made Colección Sea",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/lms.jpg"
+    },
+    {
+      "idMarca": "MSA",
+      "descripcion": "Maserati Attrazione",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/msa.jpg"
+    },
+    {
+      "idMarca": "RWT",
+      "descripcion": "Raimond Weil Tango",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/rwt.jpg"
+    },
+    {
+      "idMarca": "SKB",
+      "descripcion": "K&Bros",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/skb.jpg"
+    },
+    {
+      "idMarca": "MSF",
+      "descripcion": "Maserati Sfida",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/msf.jpg"
+    },
+    {
+      "idMarca": "SZ7",
+      "descripcion": "Sandoz Armys",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/sz7.jpg"
+    },
+    {
+      "idMarca": "MS0",
+      "descripcion": "Maserati",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/ms0.jpg"
+    },
+    {
+      "idMarca": "MSS",
+      "descripcion": "Maserati Successo",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/mss.jpg"
+    },
+    {
+      "idMarca": "SK9",
+      "descripcion": "Seiko Automática",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/sk9.jpg"
+    },
+    {
+      "idMarca": "SKQ",
+      "descripcion": "Seiko Presage",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/skq.jpg"
+    },
+    {
+      "idMarca": "SKX",
+      "descripcion": "Seiko Prospex",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/skx.jpg"
+    },
+    {
+      "idMarca": "TS8",
+      "descripcion": "Tissot Armys Deportivo",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/ts8.jpg"
+    },
+    {
+      "idMarca": "TS3",
+      "descripcion": "Correa Tissot",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/ts3.jpg"
+    },
+    {
+      "idMarca": "VCE",
+      "descripcion": "Viceroy",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/vce.jpg"
+    },
+    {
+      "idMarca": "VCJ",
+      "descripcion": "Viceroy Plata",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/vcj.jpg"
+    },
+    {
+      "idMarca": "VCD",
+      "descripcion": "Viceroy Smart Watch",
+      "urlImagen": "https:\/\/crisoft.es\/appCrijoya\/img\/m\/vcd.jpg"
+    }
+  ]
+}

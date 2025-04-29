@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrisoftApp.Pages.Usuario.PedidosUsuario"
+             Title="PedidosUsuario">
+    <!-- Creación del Grid -->
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- BoxView y Grid para la cabecera -->
+        <BoxView Grid.Row="0" HeightRequest="20" Color="{StaticResource Azul}" HorizontalOptions="FillAndExpand" Margin="10,30,10,0" />
+
+        <Grid Grid.Row="1" BackgroundColor="{StaticResource Azul}" Margin="10,0,10,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Text="FECHA" FontAttributes="Bold" TextColor="Black" FontSize="25" Margin="10,0,0,0" />
+            <Label Grid.Column="1" Text="N. PEDIDO" FontAttributes="Bold" TextColor="Black" FontSize="25" Margin="5,0,0,0"/>
+            <Label Grid.Column="2" Text="CLIENTE" FontAttributes="Bold" TextColor="Black" FontSize="25" Margin="-5,0,0,0"/>
+            <Label Grid.Column="3" Text="TOTAL" FontAttributes="Bold" TextColor="Black" FontSize="25" Margin="-5,0,0,0"/>
+        </Grid>
+
+        <!-- Lista de pedidos -->
+        <ScrollView Grid.Row="2">
+            <ListView x:Name="listaPedidos" HasUnevenRows="True" Margin="10">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <!-- Creación del Grid -->
+                            <Grid Padding="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <!-- Mostrar Fecha -->
+                                <Label Text="{Binding pedido.fecha, StringFormat='{0:dd/MM/yyyy}'}" Grid.Row="0" Grid.Column="0" FontSize="Medium" VerticalOptions="Start" />
+
+                                <!-- Mostrar Id pedido -->
+                                <Label Text="{Binding pedido.idPedido}" Grid.Row="0" Grid.Column="1"  FontSize="Medium" HorizontalOptions="Start"  VerticalOptions="Start" />
+
+                                <!-- Mostrar Nombre -->
+                                <Label Text="{Binding cliente.nombre}" Grid.Row="0" Grid.Column="2" FontSize="Medium" />
+
+                                <!-- Mostrar Total -->
+                                <Label Grid.Row="0" Grid.Column="3" FontSize="Medium">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <!-- Bind a la propiedad total del pedido -->
+                                            <Span Text="{Binding pedido.total}" />
+                                            <!-- Añadir el símbolo € -->
+                                            <Span Text=" €" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+
+                                <!-- BoxView para separación -->
+                                <BoxView Grid.Row="1" Grid.ColumnSpan="4" HeightRequest="1" Color="Gray" VerticalOptions="End"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollView>
+    </Grid>
+</ContentPage>

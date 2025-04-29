@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="{StaticResource Azul}"
+             x:Class="CrisoftApp.Pages.BotonesCPA"
+             Title="BotonesCPA">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" Text="Clientes" TextColor="Black" BackgroundColor="{StaticResource SecundaryColor}" Clicked="OnListaClientesTapped" ImageSource="persona.png" WidthRequest="300" HeightRequest="65"  Margin="0,100,0,35"/>
+        <Button Grid.Row="1" Text="Usuarios" TextColor="Black" BackgroundColor="{StaticResource SecundaryColor}" Clicked="OnUsuariosTapped" ImageSource="actividad.png" WidthRequest="300" HeightRequest="65" Margin="0,0,0,0"/>
+        <Button Grid.Row="2" Text="Pedidos Clientes" TextColor="Black" BackgroundColor="{StaticResource SecundaryColor}" Clicked="OnPedidosTapped" ImageSource="carrito.png" WidthRequest="300" HeightRequest="65" Margin="0,35,0,35"/>
+        <Button Grid.Row="3" Text="Pedidos Usuarios" TextColor="Black" BackgroundColor="{StaticResource SecundaryColor}" Clicked="OnPedidosUsuariosTapped" ImageSource="carrito.png" WidthRequest="300" HeightRequest="65" Margin="0,0,0,0"/>
+        <Button Grid.Row="4" Text="Agenda" TextColor="Black" BackgroundColor="{StaticResource SecundaryColor}" Clicked="OnAgendaTapped" ImageSource="agenda.png" WidthRequest="300" HeightRequest="65" Margin="0,35,0,0"/>
+        
+    </Grid>
+</ContentPage>

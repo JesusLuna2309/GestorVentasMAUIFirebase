@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrisoftApp.Pages.Admin.ListadoClientes"
+             Title="ListadoClientes">
+    <ScrollView>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <ImageButton Source="anadir3.png"
+                Clicked="OnAñadirClienteClicked"
+                HorizontalOptions="End"
+                VerticalOptions="End"
+                Margin="0,30,20,0"
+                WidthRequest="30"
+                HeightRequest="30"
+                IsEnabled="True"
+                Grid.Column="2"/>
+            </Grid>
+
+            <StackLayout Margin="30,30,30,0">
+                <BoxView HeightRequest="20" Color="{StaticResource PrimaryColor}" HorizontalOptions="FillAndExpand" Margin="0,30,0,0" />
+                <Grid BackgroundColor="{StaticResource PrimaryColor}">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                        <Label Grid.Column="0" Text="ID Cliente" FontAttributes="Bold" TextColor="Black" Margin="10,0,0,0" />
+                        <Label Grid.Column="1" Text="Nombre" FontAttributes="Bold" TextColor="Black"/>
+                        <Label Grid.Column="2" Text="Localidad" FontAttributes="Bold" TextColor="Black"/>
+                        <Label Grid.Column="3" Text="Provincia" FontAttributes="Bold" TextColor="Black"/>
+                        <Label Grid.Column="4" Text="Ruta" FontAttributes="Bold" TextColor="Black"/>
+                        <Label Grid.Column="5" Text="Eliminar" FontAttributes="Bold" TextColor="Black" Margin="13,0,0,0"  VerticalOptions="Center" HorizontalOptions="Start"/>
+                        <Label Grid.Column="6" Text="Modificar" FontAttributes="Bold" TextColor="Black" Margin="16,0,0,0"  VerticalOptions="Center" HorizontalOptions="Center"/>
+                </Grid>
+
+                <BoxView HeightRequest="20" Color="{StaticResource PrimaryColor}" HorizontalOptions="FillAndExpand" Margin="0,0,0,10" />
+
+                <ListView x:Name="listaCl" ItemTapped="listaCl_ItemTapped">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Grid.Column="0" Text="{Binding idCliente}" Margin="10,10,0,10" VerticalTextAlignment="Center" />
+                                    <Label Grid.Column="1" Text="{Binding nombre}" Margin="0,10,0,10" VerticalTextAlignment="Center"/>
+                                    <Label Grid.Column="2" Text="{Binding localidad}" Margin="0,10,0,10" VerticalTextAlignment="Center"/>
+                                    <Label Grid.Column="3" Text="{Binding provincia}" Margin="0,10,0,10" VerticalTextAlignment="Center"/>
+                                    <Label Grid.Column="4" Text="{Binding ruta}" Margin="0,10,0,10" VerticalTextAlignment="Center"/>
+                                    <Button Grid.Column="5" x:Name="btnEliminar" Clicked="btn_EliminarClicked" ImageSource="restar2.png" Margin="10,0,0,0" BackgroundColor="Transparent" VerticalOptions="Center" HorizontalOptions="Start"/>
+                                    <Button Grid.Column="6" x:Name="btnModificar" Clicked="btn_ModificarClicked" ImageSource="lupa.png" Margin="10,0,0,0" BackgroundColor="Transparent"  VerticalOptions="Center" HorizontalOptions="Start" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

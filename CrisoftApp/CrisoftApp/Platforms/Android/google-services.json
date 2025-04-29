@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "348161758622",
+    "firebase_url": "https://autenticacion-40b2d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "autenticacion-40b2d",
+    "storage_bucket": "autenticacion-40b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348161758622:android:5be5370b95b339fd55f28f",
+        "android_client_info": {
+          "package_name": "com.company.Crisoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeCiMWkBKbKkTzsAsiWNPYBE0FMfVarTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

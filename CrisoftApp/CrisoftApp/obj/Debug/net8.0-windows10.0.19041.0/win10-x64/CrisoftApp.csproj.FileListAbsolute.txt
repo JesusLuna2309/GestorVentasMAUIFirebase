@@ -1,0 +1,903 @@
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.AssemblyReference.cache
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda2.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda3.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir2.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir3.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carrito.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carrito2.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\check.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cross.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diamante.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diamantes.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\engranaje.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icono_desconectado.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lupa.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\persona.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\persona2.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.AssemblyInfoInputs.cache
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.AssemblyInfo.cs
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.CoreCompileInputs.cache
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.dll
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\CrisoftApp.dll
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.pdb
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.exe
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.deps.json
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.runtimeconfig.json
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.pdb
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FirebaseAdmin.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Firebase.Auth.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Firebase.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.Rest.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.PlatformServices.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Core.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LiteDB.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyModel.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Reactive.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.Up2Date
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.genruntimeconfig.cache
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\CrisoftApp.dll
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shopcart.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\papelera.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\catalogo.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\actividad.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restar.scale-100.png
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restar2.scale-100.png
+D:\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+D:\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\filter.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.exe
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.deps.json
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.runtimeconfig.json
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.pdb
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FirebaseAdmin.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Firebase.Auth.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Firebase.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.Rest.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.PlatformServices.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Core.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LiteDB.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Reactive.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.AssemblyReference.cache
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\actividad.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda2.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda3.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir2.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir3.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carrito.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carrito2.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\catalogo.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\check.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cross.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diamante.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diamantes.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\engranaje.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\filter.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icono_desconectado.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lupa.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\papelera.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\persona.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\persona2.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restar.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restar2.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shopcart.scale-100.png
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.AssemblyInfoInputs.cache
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.AssemblyInfo.cs
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.Up2Date
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\CrisoftApp.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.pdb
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.genruntimeconfig.cache
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\CrisoftApp.dll
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PC GAMING\Desktop\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.exe
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.deps.json
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.runtimeconfig.json
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.pdb
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FirebaseAdmin.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Firebase.Auth.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Firebase.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.Rest.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.PlatformServices.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Core.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LiteDB.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyModel.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Reactive.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.AssemblyReference.cache
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\actividad.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda2.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda3.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir2.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir3.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carrito.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carrito2.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\catalogo.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\check.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cross.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diamante.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diamantes.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\engranaje.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\filter.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icono_desconectado.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lupa.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\papelera.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\persona.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\persona2.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restar.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restar2.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shopcart.scale-100.png
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.AssemblyInfoInputs.cache
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.AssemblyInfo.cs
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.CoreCompileInputs.cache
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.Up2Date
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\CrisoftApp.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.pdb
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.genruntimeconfig.cache
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\CrisoftApp.dll
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.exe
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.deps.json
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.runtimeconfig.json
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.pdb
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FirebaseAdmin.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Firebase.Auth.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Firebase.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Api.Gax.Rest.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.PlatformServices.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Core.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LiteDB.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Reactive.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.AssemblyReference.cache
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\persona.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\actividad.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\persona2.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restar.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda2.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\restar2.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diamante.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\shopcart.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\filter.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\engranaje.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cross.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carrito2.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir3.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\papelera.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icono_desconectado.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\catalogo.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\carrito.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\check.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\agenda3.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lupa.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir2.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\diamantes.scale-100.png
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.AssemblyInfoInputs.cache
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.AssemblyInfo.cs
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.CoreCompileInputs.cache
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.csproj.Up2Date
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\CrisoftApp.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.pdb
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\CrisoftApp.genruntimeconfig.cache
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\CrisoftApp.dll
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\luro2\OneDrive\Escritorio\PresentacionLunes\CrisoftApp\CrisoftApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

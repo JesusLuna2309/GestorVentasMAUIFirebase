@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrisoftApp.Pages.Admin.ListadoPersonal"
+             Title="ListadoPersonal">
+    <ScrollView>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+            </Grid>
+
+            <StackLayout Margin="30,30,30,0">
+                <BoxView HeightRequest="20" Color="{StaticResource PrimaryColor}" HorizontalOptions="FillAndExpand" Margin="0,30,0,0" />
+                <Grid BackgroundColor="{StaticResource PrimaryColor}">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Column="0" Text="ID Usuario" FontAttributes="Bold" TextColor="Black" Margin="10,0,0,0" />
+                    <Label Grid.Column="1" Text="Gmail" FontAttributes="Bold" TextColor="Black" Margin="30,0,0,0"/>
+                    <Label Grid.Column="2" Text="Contraseña" FontAttributes="Bold" TextColor="Black"/>
+                    <Label Grid.Column="3" Text="Rol" FontAttributes="Bold" TextColor="Black"/>
+                    <!--<Label Grid.Column="4" Text="Eliminar" FontAttributes="Bold" TextColor="Black" Margin="13,0,0,0"  VerticalOptions="Center" HorizontalOptions="Start"/>-->
+                    <Label Grid.Column="4" Text="Modificar" FontAttributes="Bold" TextColor="Black" Margin="-60,0,0,0"  VerticalOptions="Center" HorizontalOptions="Center"/>
+                </Grid>
+
+                <BoxView HeightRequest="20" Color="{StaticResource PrimaryColor}" HorizontalOptions="FillAndExpand" Margin="0,0,0,10" />
+
+                <ListView x:Name="listaUsuarios">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                        <!--<ColumnDefinition Width="*"/>-->
+                                    </Grid.ColumnDefinitions>
+                                    <Label Grid.Column="0" Text="{Binding IdUsuario}" Margin="10,10,0,10" HorizontalOptions="Center" />
+                                    <Label Grid.Column="1" Text="{Binding Gmail}" Margin="0,10,0,10" VerticalTextAlignment="Center"/>
+                                    <Label Grid.Column="2" Text="{Binding Contra}" Margin="0,10,0,10" VerticalTextAlignment="Center"/>
+                                    <Label Grid.Column="3" Text="{Binding Rol}" Margin="0,10,0,10" VerticalTextAlignment="Center"/>
+                                    <Button Grid.Column="4" x:Name="btnModificar" Clicked="btn_ModificarClicked" ImageSource="lupa.png" Margin="10,0,0,0" BackgroundColor="Transparent"  VerticalOptions="Center" HorizontalOptions="Start" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <!-- Añadir el botón Volver aquí -->
+                <Button x:Name="VolverButton"
+                        BackgroundColor="#1C375C"
+                        CornerRadius="20"
+                        HorizontalOptions="FillAndExpand"
+                        VerticalOptions="Center"
+                        Text="Volver"
+                        Clicked="OnVolverClicked" />
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="gcm_defaultSenderId" translatable="false">348161758622</string>
+  <string name="firebase_database_url" translatable="false">https://autenticacion-40b2d-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="google_storage_bucket" translatable="false">autenticacion-40b2d.appspot.com</string>
+  <string name="project_id" translatable="false">autenticacion-40b2d</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrisoftApp.Pages.Usuario.BotonesCPAUsuario"
+             BackgroundColor="{StaticResource Azul}"
+             Title="BotonesCPAUsuario">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" Text="Catalogo" TextColor="Black" BackgroundColor="{StaticResource SecundaryColor}" ImageSource="catalogo.png" Clicked="OnCatalogoTapped" WidthRequest="300" HeightRequest="65"  Margin="0,70,0,35"/>
+        <!--<Button Grid.Row="1" Text="Mis Pedidos" TextColor="Black" BackgroundColor="{StaticResource SecundaryColor}" ImageSource="carrito.png" Clicked="OnMisPedidosTapped" WidthRequest="300" HeightRequest="65" Margin="0,0,0,35"/>-->
+        <Button Grid.Row="1" Text="Pedir Cita" TextColor="Black" BackgroundColor="{StaticResource SecundaryColor}" ImageSource="agenda.png" Clicked="OnPedirCitaTapped" WidthRequest="300" HeightRequest="65" Margin="0,0,0,0"/>
+    </Grid>
+</ContentPage>

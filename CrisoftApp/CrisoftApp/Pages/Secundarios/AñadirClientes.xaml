@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrisoftApp.Pages.Secundarios.AñadirClientes"
+             Title="AñadirClientes">
+    <Grid Padding="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <VerticalStackLayout Grid.Column="0" Spacing="15" Margin="0,10,10,0">
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Nombre:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="NombreEntry" Placeholder="Nombre" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Dirección:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="DireccionEntry" Placeholder="Dirección" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Provincia:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="ProvinciaEntry" Placeholder="Provincia" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Localidad:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="LocalidadEntry" Placeholder="Localidad" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="C.Postal:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="CPostalEntry" Placeholder="C.Postal" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Email:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="EmailEntry" Placeholder="Email" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="País:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="PaisEntry" Placeholder="País" WidthRequest="200"/>
+            </StackLayout>
+            
+            <Button Text="Añadir"
+                    ImageSource="check.png"
+                    Margin="0,10,0,0"
+                    BackgroundColor="#1C375C"
+                    Clicked="OnAñadidoTapped"/>
+            
+        </VerticalStackLayout>
+
+        <VerticalStackLayout Grid.Column="1" Spacing="15" Margin="10,10,0,0">
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Enviado:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="EnviadoEntry" Placeholder="Enviado" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Ruta:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="RutaEntry" Placeholder="Ruta" WidthRequest="200"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Ubicación:" VerticalOptions="Center" HorizontalOptions="End"/>
+                <Entry x:Name="UbicacionEntry" Placeholder="Ubicación" WidthRequest="200"/>
+            </StackLayout>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

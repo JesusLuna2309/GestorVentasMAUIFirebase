@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrisoftApp.Pages.Secundarios.ModificarCliente"
+             Title="Modificar Cliente"
+             BackgroundColor="LightGray">
+    <Grid Padding="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Primera columna -->
+        <VerticalStackLayout Grid.Column="0" Spacing="15" Margin="20,10,10,0">
+            <!-- Nombre -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Nombre:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Entry x:Name="NombreEntry" Placeholder="Nombre" TextColor="Black" Margin="10,5"/>
+                </Frame>
+            </StackLayout>
+            <!-- Dirección -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Dirección:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Entry x:Name="DireccionEntry" Placeholder="Dirección" TextColor="Black" Margin="10,5"/>
+                </Frame>
+            </StackLayout>
+            <!-- Provincia -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Provincia:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Entry x:Name="ProvinciaEntry" Placeholder="Provincia" TextColor="Black" Margin="10,5"/>
+                </Frame>
+            </StackLayout>
+            <!-- Localidad -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Localidad:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Entry x:Name="LocalidadEntry" Placeholder="Localidad" TextColor="Black" Margin="10,5"/>
+                </Frame>
+            </StackLayout>
+            <!-- Código Postal -->
+            
+            <!-- Botón de añadir -->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="-330,30,0,10">
+                <Button Text="Añadir"
+                        FontAttributes="Bold"
+                        BackgroundColor="{StaticResource Azul}"
+                        TextColor="White"
+                        CornerRadius="20"
+                        Padding="10,5"
+                        WidthRequest="100"
+                        HeightRequest="40"
+                        Clicked="OnAñadidoTapped"/>
+            </StackLayout>
+        </VerticalStackLayout>
+
+        <!-- Segunda columna -->
+        <VerticalStackLayout Grid.Column="1" Spacing="15" Margin="10,10,0,0">
+            <!-- Email -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Email:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Entry x:Name="EmailEntry" Placeholder="Email" TextColor="Black" Margin="10,5"/>
+                </Frame>
+            </StackLayout>
+            <!-- País -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="C.Postal:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Entry x:Name="CPostalEntry" Placeholder="C.Postal" TextColor="Black" Margin="10,5"/>
+                </Frame>
+            </StackLayout>
+            <!-- Enviado -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Ruta:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Entry x:Name="RutaEntry" Placeholder="Ruta" TextColor="Black" Margin="10,5"/>
+                </Frame>
+            </StackLayout>
+
+            <!-- Ubicación -->
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Ubicación:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Entry x:Name="UbicacionEntry" Placeholder="Ubicación" TextColor="Black" Margin="10,5"/>
+                </Frame>
+            </StackLayout>
+            <!-- Botón de volver -->
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Margin="0,30,320,40">
+                <Button Text="Volver" BackgroundColor="{StaticResource Azul}" FontAttributes="Bold" TextColor="White" CornerRadius="20" Padding="10,5" WidthRequest="100" HeightRequest="40" Clicked="OnVolverClicked"/>
+            </StackLayout>
+        </VerticalStackLayout>
+        <!-- Rol -->
+        <!--<VerticalStackLayout Grid.Column="2" Margin="10,10,0,0">
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Rol:" VerticalOptions="Center" HorizontalOptions="End" FontAttributes="Bold"/>
+                <Frame BackgroundColor="White" Padding="0" HasShadow="False" CornerRadius="10" WidthRequest="200">
+                    <Picker x:Name="RolPicker" Title="Seleccionar Rol" Margin="10,5">
+                        <Picker.ItemsSource>
+                            <x:Array Type="{x:Type x:String}">
+                                <x:String>Admin</x:String>
+                                <x:String>Usuario</x:String>
+                            </x:Array>
+                        </Picker.ItemsSource>
+                    </Picker>
+                </Frame>
+            </StackLayout>
+        </VerticalStackLayout>-->
+    </Grid>
+</ContentPage>
